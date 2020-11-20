@@ -3,3 +3,6 @@ Banner:
     Have a black background
 Nav Bar:
     Have the sections spread through the screen
+
+# Side Tasks
+1. Add collaboration for Aaron and Safayat
