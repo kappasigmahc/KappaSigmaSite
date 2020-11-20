@@ -1,4 +1,23 @@
+
+#content{
+    width: 100vw;
+    height: 72.7vh;
+    
+    border: 1px solid black;
+}
 #homebanner{
     width: auto;
     height: 200;
+}
+/* NAVBAR Styling */
+#navbar-links{
+    text-align: center;
+    width:76vw;
+}
+#navbar-links li{
+    padding-left: 9vw;
+}
+
+.white-text{
+    color: #ffffff !important;
 }

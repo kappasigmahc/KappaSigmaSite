@@ -1,0 +1,5 @@
+11.20.2020
+
+Ricky Martinez 
+    - I removed the integrity and crossorigin attributes from the script import. This caused an issue
+    - I replaces jquery.slim.min.js to jquery-3.2.1.min.js. jQUERY isn't in the slim version and was causing an error for my SPAHack.js
