@@ -1,1 +1,5 @@
-test
+Banner:
+    Have the banner stretched through the top to show Kappa Sigma
+    Have a black background
+Nav Bar:
+    Have the sections spread through the screen
