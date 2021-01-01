@@ -5,7 +5,7 @@ $(document).ready(function(){
     if(location_name == "index.html" || location_name == ""){
         $("#content").load("html/pages/home.html");
     }
-    
+    console.log("random")
     // Navbar Links
     $("a.nav-link").unbind("click").click(function(){            
         var sectionUrl = $(this).attr("data-url");
